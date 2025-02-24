@@ -35,3 +35,5 @@ YOUTUBE_API_KEY=ваш_ключ_youtube_api
 https://www.youtube.com/watch?v=example_video_id
 ```
 ### 2. Бот обработает комментарии и отправит диаграмму:
+![image](https://github.com/user-attachments/assets/c1ba6f96-a01a-4342-85a1-e7e5caf188bc)
+
